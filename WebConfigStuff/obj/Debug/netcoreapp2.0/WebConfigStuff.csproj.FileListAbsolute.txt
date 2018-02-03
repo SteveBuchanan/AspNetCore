@@ -1,0 +1,10 @@
+D:\projects\dotnet\WebConfigStuff\bin\Debug\netcoreapp2.0\WebConfigStuff.deps.json
+D:\projects\dotnet\WebConfigStuff\bin\Debug\netcoreapp2.0\WebConfigStuff.runtimeconfig.json
+D:\projects\dotnet\WebConfigStuff\bin\Debug\netcoreapp2.0\WebConfigStuff.runtimeconfig.dev.json
+D:\projects\dotnet\WebConfigStuff\bin\Debug\netcoreapp2.0\WebConfigStuff.dll
+D:\projects\dotnet\WebConfigStuff\bin\Debug\netcoreapp2.0\WebConfigStuff.pdb
+D:\projects\dotnet\WebConfigStuff\obj\Debug\netcoreapp2.0\WebConfigStuff.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\WebConfigStuff\obj\Debug\netcoreapp2.0\WebConfigStuff.AssemblyInfoInputs.cache
+D:\projects\dotnet\WebConfigStuff\obj\Debug\netcoreapp2.0\WebConfigStuff.AssemblyInfo.cs
+D:\projects\dotnet\WebConfigStuff\obj\Debug\netcoreapp2.0\WebConfigStuff.dll
+D:\projects\dotnet\WebConfigStuff\obj\Debug\netcoreapp2.0\WebConfigStuff.pdb

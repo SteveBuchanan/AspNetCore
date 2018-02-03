@@ -1,0 +1,11 @@
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\bin\Debug\netcoreapp2.0\DotNetCore20Config.deps.json
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\bin\Debug\netcoreapp2.0\DotNetCore20Config.runtimeconfig.json
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\bin\Debug\netcoreapp2.0\DotNetCore20Config.runtimeconfig.dev.json
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\bin\Debug\netcoreapp2.0\DotNetCore20Config.dll
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\bin\Debug\netcoreapp2.0\DotNetCore20Config.pdb
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\obj\Debug\netcoreapp2.0\DotNetCore20Config.csprojResolveAssemblyReference.cache
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\obj\Debug\netcoreapp2.0\DotNetCore20Config.csproj.CoreCompileInputs.cache
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\obj\Debug\netcoreapp2.0\DotNetCore20Config.AssemblyInfoInputs.cache
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\obj\Debug\netcoreapp2.0\DotNetCore20Config.AssemblyInfo.cs
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\obj\Debug\netcoreapp2.0\DotNetCore20Config.dll
+D:\Temp\Downloads\CodeSamples-master\DotNetCore20Config\obj\Debug\netcoreapp2.0\DotNetCore20Config.pdb

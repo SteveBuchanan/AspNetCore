@@ -25,7 +25,9 @@ namespace DotNetCore20Config.Controllers
             // Read configuration using mixed options with GetSection method and Key string
             ViewData["MySectionMySecondConfigMySecondSubConfig"] = _configuration.GetSection("MySection")["MySecondConfig:MySecondSubConfig"];
 
-            ViewData["MyConnectionString"] = _configuration.GetConnectionString("localDB");
+          
+            ViewData["MyLocalDB"] = _configuration.GetConnectionString("localDB");
+ 
             return View();
 
 

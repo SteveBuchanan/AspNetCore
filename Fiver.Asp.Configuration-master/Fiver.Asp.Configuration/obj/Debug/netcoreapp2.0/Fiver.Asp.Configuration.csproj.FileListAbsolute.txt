@@ -1,0 +1,11 @@
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\bin\Debug\netcoreapp2.0\Fiver.Asp.Configuration.deps.json
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\bin\Debug\netcoreapp2.0\Fiver.Asp.Configuration.runtimeconfig.json
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\bin\Debug\netcoreapp2.0\Fiver.Asp.Configuration.runtimeconfig.dev.json
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\bin\Debug\netcoreapp2.0\Fiver.Asp.Configuration.dll
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\bin\Debug\netcoreapp2.0\Fiver.Asp.Configuration.pdb
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\obj\Debug\netcoreapp2.0\Fiver.Asp.Configuration.csprojResolveAssemblyReference.cache
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\obj\Debug\netcoreapp2.0\Fiver.Asp.Configuration.csproj.CoreCompileInputs.cache
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\obj\Debug\netcoreapp2.0\Fiver.Asp.Configuration.AssemblyInfoInputs.cache
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\obj\Debug\netcoreapp2.0\Fiver.Asp.Configuration.AssemblyInfo.cs
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\obj\Debug\netcoreapp2.0\Fiver.Asp.Configuration.dll
+D:\Temp\Downloads\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration-master\Fiver.Asp.Configuration\obj\Debug\netcoreapp2.0\Fiver.Asp.Configuration.pdb

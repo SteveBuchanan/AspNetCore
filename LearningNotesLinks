@@ -1,3 +1,15 @@
+// good starting point
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup
+
+Logging
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/index?tabs=aspnetcore2x
 
 This is a good link with clean examples.
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
+
+Dependency Injection
+https://www.infoworld.com/article/3232636/application-development/how-to-use-dependency-injection-in-aspnet-core.html
+
+
+In Memory Cache
+https://www.infoworld.com/article/3230129/application-development/how-to-use-in-memory-caching-in-aspnet-core.html

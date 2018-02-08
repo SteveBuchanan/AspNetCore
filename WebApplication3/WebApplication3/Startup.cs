@@ -9,6 +9,8 @@ using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using WebApplication3.Models;
+using NLog.Web;
+using Microsoft.Extensions.Logging;
 
 namespace WebApplication3
 {
@@ -27,7 +29,8 @@ namespace WebApplication3
             services.AddMemoryCache();
 
             //services.AddTransient(obj => new WorkItemsService().GetService(typeof(Wor)) as ICustomer);
-            services.AddSingleton<IWorkItemsService, WorkItemsService>();
+            //services.AddSingleton<IWorkItemsService, WorkItemsService>();
+            services.AddTransient<IWorkItemsService, WorkItemsService>();
             services.AddMvc();
         }
 
@@ -36,9 +39,9 @@ namespace WebApplication3
         {
             //IWorkItemsService workitmsvc = new WorkItemsService();
             //IEnumerable<ToDoItem> myItems = workitmsvc.GetAllToDoItems();
-
-                 
-
+                        
+            
+            
             if (env.IsDevelopment())
             {
                 app.UseBrowserLink();

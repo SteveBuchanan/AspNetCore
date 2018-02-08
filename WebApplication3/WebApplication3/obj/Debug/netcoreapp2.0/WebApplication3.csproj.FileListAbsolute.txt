@@ -9,3 +9,4 @@ D:\projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplicati
 D:\projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfo.cs
 D:\projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.dll
 D:\projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.pdb
+D:\projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\nlog.config.xml

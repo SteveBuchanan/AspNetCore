@@ -1,0 +1,155 @@
+debug log message
+info log message
+warn log message
+error log message
+fatal log message
+debug log message
+info log message
+warn log message
+error log message
+fatal log message
+debug log message
+info log message
+warn log message
+error log message
+fatal log message
+debug log message
+info log message
+warn log message
+error log message
+fatal log message
+debug log message
+info log message
+warn log message
+error log message
+fatal log message
+debug log message
+info log message
+warn log message
+error log message
+fatal log message
+12:20:19 Example message}
+12:20:19 Example message}
+12:20:19 Example message}
+12:20:19 Example message}
+12:20:19 Example message}
+12:20:30 Example message}
+12:20:30 Example message}
+12:20:30 Example message}
+12:20:30 Example message}
+12:20:30 Example message}
+12:20:31 Example message}
+12:20:31 Example message}
+12:20:31 Example message}
+12:20:31 Example message}
+12:20:31 Example message}
+12:20:32 Example message}
+12:20:32 Example message}
+12:20:32 Example message}
+12:20:32 Example message}
+12:20:32 Example message}
+12:20:34 Example message}
+12:20:34 Example message}
+12:20:34 Example message}
+12:20:34 Example message}
+12:20:34 Example message}
+12:20:35 Example message}
+12:20:35 Example message}
+12:20:35 Example message}
+12:20:35 Example message}
+12:20:35 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:37 Example message}
+12:20:38 Example message}
+12:20:38 Example message}
+12:20:38 Example message}
+12:20:38 Example message}
+12:20:38 Example message}
+12:22:02 Example debug log message
+12:22:02 Example info log message
+12:22:02 Example warn log message
+12:22:02 Example error log message
+12:22:02 Example fatal log message
+12:22:16 Example debug log message
+12:22:16 Example info log message
+12:22:16 Example warn log message
+12:22:16 Example error log message
+12:22:16 Example fatal log message
+12:22:20 Example debug log message
+12:22:20 Example info log message
+12:22:20 Example warn log message
+12:22:20 Example error log message
+12:22:20 Example fatal log message
+12:22:22 Example debug log message
+12:22:22 Example info log message
+12:22:22 Example warn log message
+12:22:22 Example error log message
+12:22:22 Example fatal log message
+12:22:23 Example debug log message
+12:22:23 Example info log message
+12:22:23 Example warn log message
+12:22:23 Example error log message
+12:22:23 Example fatal log message
+12:22:23 Example debug log message
+12:22:23 Example info log message
+12:22:23 Example warn log message
+12:22:23 Example error log message
+12:22:23 Example fatal log message
+12:22:25 Example debug log message
+12:22:25 Example info log message
+12:22:25 Example warn log message
+12:22:25 Example error log message
+12:22:25 Example fatal log message
+12:22:26 Example debug log message
+12:22:26 Example info log message
+12:22:26 Example warn log message
+12:22:26 Example error log message
+12:22:26 Example fatal log message
+12:22:26 Example debug log message
+12:22:26 Example info log message
+12:22:26 Example warn log message
+12:22:26 Example error log message
+12:22:26 Example fatal log message
+12:22:27 Example debug log message
+12:22:27 Example info log message
+12:22:27 Example warn log message
+12:22:27 Example error log message
+12:22:27 Example fatal log message
+12:22:27 Example debug log message
+12:22:27 Example info log message
+12:22:27 Example warn log message
+12:22:27 Example error log message
+12:22:27 Example fatal log message
+12:22:28 Example debug log message
+12:22:28 Example info log message
+12:22:28 Example warn log message
+12:22:28 Example error log message
+12:22:28 Example fatal log message
+07:05:01 Example debug log message
+07:05:01 Example info log message
+07:05:01 Example warn log message
+07:05:01 Example error log message
+07:05:01 Example fatal log message
+07:06:03 Example debug log message
+07:06:03 Example info log message
+07:06:03 Example warn log message
+07:06:03 Example error log message
+07:06:03 Example fatal log message
+07:11:18 Example debug log message
+07:11:18 Example info log message
+07:11:18 Example warn log message
+07:11:18 Example error log message
+07:11:18 Example fatal log message
+07:12:19 Example debug log message
+07:12:19 Example info log message
+07:12:19 Example warn log message
+07:12:19 Example error log message
+07:12:19 Example fatal log message
